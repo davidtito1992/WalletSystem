@@ -1,0 +1,37 @@
+{
+  "exchanges": [
+    {
+      "name": "Gate",
+      "money": "USDT",
+      "red": {
+        "Tron": "TE9sfTbt3atKbKtJuXXHkv5NQxD9nwbA5f",
+        "Optimism": "0x2DE4efaCbd3B4eFC33439693db35AaE39080803d",
+        "Arbitrum": "0x2DE4efaCbd3B4eFC33439693db35AaE39080803d"
+      }
+    },
+    {
+      "name": "Binance",
+      "money": "USDT",
+      "red": {
+        "Tron": "TE65qNpWcqjDPEadjbHJNeTwZLiTbp1fhX",
+        "Optimism": "0x2c4a9d7140f8c4049049fb59d845cbe5fdd662a5",
+        "Arbitrum": "0x2c4a9d7140f8c4049049fb59d845cbe5fdd662a5"
+      }
+    },
+    {
+      "name": "Okx",
+      "money": "USDT",
+      "red": {
+        "Tron": "THcqXeSkSmYE4A1pH4GTqzuWMGUTu1sAAu",
+        "Optimism": "0xff16febaa2c4b0f895cfba10211ff5badfd36718",
+        "Arbitrum": "0xff16febaa2c4b0f895cfba10211ff5badfd36718"
+      }
+    }
+  ],
+  "virtualWallet": {
+    "name": "Paypal",
+    "email": "tdavid2000@hotmail.com",
+    "link": "https://paypal.me/georgedavidt"
+  },
+  "Msg": "Hello World"
+}
