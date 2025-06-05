@@ -39,7 +39,7 @@
   ],
   "virtualWallet": {
     "name": "Paypal",
-    "email": "tdavid2000@hotmail.com",
+    "username": "tdavid2000@hotmail.com",
     "link": "https://paypal.me/georgedavidt"
   },
   "Msg": "Hello World"
