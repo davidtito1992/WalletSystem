@@ -4,18 +4,18 @@
       "name": "Gate",
       "money": "USDT",
       "red": {
-        "Optimism": "0x2DE4efaCbd3B4eFC33439693db35AaE39080803d",
-        "Arbitrum": "0x2DE4efaCbd3B4eFC33439693db35AaE39080803d",
-        "Tron": "TE9sfTbt3atKbKtJuXXHkv5NQxD9nwbA5f"
+        "optimism": "0x2DE4efaCbd3B4eFC33439693db35AaE39080803d",
+        "arbitrum": "0x2DE4efaCbd3B4eFC33439693db35AaE39080803d",
+        "tron": "TE9sfTbt3atKbKtJuXXHkv5NQxD9nwbA5f"
       }
     },
     {
       "name": "Kraken",
       "money": "USDT",
       "red": {
-        "Optimism": "0x66a55cb23ede77c0862fd7551ffcaeadb64f0b5a",
-        "Arbitrum": "0x66a55cb23ede77c0862fd7551ffcaeadb64f0b5a",
-        "Tron": "TScBTTH5zPrNnAtNK754Z3RePPsVTeXdT6",
+        "optimism": "0x66a55cb23ede77c0862fd7551ffcaeadb64f0b5a",
+        "arbitrum": "0x66a55cb23ede77c0862fd7551ffcaeadb64f0b5a",
+        "tron": "TScBTTH5zPrNnAtNK754Z3RePPsVTeXdT6",
       },
       "bank": {
         "refence": "AA81 N84G RFSQ HDTA",
@@ -30,18 +30,18 @@
       "name": "Binance",
       "money": "USDT",
       "red": {  
-        "Optimism": "0x2c4a9d7140f8c4049049fb59d845cbe5fdd662a5",
-        "Arbitrum": "0x2c4a9d7140f8c4049049fb59d845cbe5fdd662a5",
-        "Tron": "TE65qNpWcqjDPEadjbHJNeTwZLiTbp1fhX"
+        "optimism": "0x2c4a9d7140f8c4049049fb59d845cbe5fdd662a5",
+        "arbitrum": "0x2c4a9d7140f8c4049049fb59d845cbe5fdd662a5",
+        "tron": "TE65qNpWcqjDPEadjbHJNeTwZLiTbp1fhX"
       }
     },
     {
       "name": "Okx",
       "money": "USDT",
       "red": {
-        "Optimism": "0xff16febaa2c4b0f895cfba10211ff5badfd36718",
-        "Arbitrum": "0xff16febaa2c4b0f895cfba10211ff5badfd36718",
-        "Tron": "THcqXeSkSmYE4A1pH4GTqzuWMGUTu1sAAu"
+        "optimism": "0xff16febaa2c4b0f895cfba10211ff5badfd36718",
+        "arbitrum": "0xff16febaa2c4b0f895cfba10211ff5badfd36718",
+        "tron": "THcqXeSkSmYE4A1pH4GTqzuWMGUTu1sAAu"
       }
     }
   ],
