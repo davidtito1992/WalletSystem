@@ -16,6 +16,14 @@
         "Optimism": "0x66a55cb23ede77c0862fd7551ffcaeadb64f0b5a",
         "Arbitrum": "0x66a55cb23ede77c0862fd7551ffcaeadb64f0b5a",
         "Tron": "TScBTTH5zPrNnAtNK754Z3RePPsVTeXdT6",
+      },
+      "bank": {
+        "refence": "AA81 N84G RFSQ HDTA",
+        "accountName" : "Payward Trading Ltd",
+        "bankName": "Bank Frick",
+        "accountNumber": "0104623001003840",
+        "iban": "LI82 0881 1010 4623 K003 U",
+        "bic": "BFRILI22XXX"
       }
     },
     {
