@@ -4,6 +4,7 @@
       "name": "Gate",
       "money": "USDT",
       "red": {
+        "solana": "913kjdeDasdb6gnJ7D8m64pdAQ9kHekpvBYcKDcTJZRd",
         "optimism": "0x2DE4efaCbd3B4eFC33439693db35AaE39080803d",
         "arbitrum": "0x2DE4efaCbd3B4eFC33439693db35AaE39080803d",
         "tron": "TE9sfTbt3atKbKtJuXXHkv5NQxD9nwbA5f"
@@ -13,6 +14,7 @@
       "name": "Kraken",
       "money": "USDT",
       "red": {
+        "solana": "8v4mx7fkYrxJovP4qnmkh5bNNYAiBGYTsDSw8GJdNZUA",
         "optimism": "0x66a55cb23ede77c0862fd7551ffcaeadb64f0b5a",
         "arbitrum": "0x66a55cb23ede77c0862fd7551ffcaeadb64f0b5a",
         "tron": "TScBTTH5zPrNnAtNK754Z3RePPsVTeXdT6",
@@ -30,6 +32,7 @@
       "name": "Binance",
       "money": "USDT",
       "red": {  
+        "solana": "AZ1U93YMpJLraj35cP548LYd6JHPb4EZEKSd3jW3UV4h",
         "optimism": "0x2c4a9d7140f8c4049049fb59d845cbe5fdd662a5",
         "arbitrum": "0x2c4a9d7140f8c4049049fb59d845cbe5fdd662a5",
         "tron": "TE65qNpWcqjDPEadjbHJNeTwZLiTbp1fhX"
@@ -39,6 +42,7 @@
       "name": "Okx",
       "money": "USDT",
       "red": {
+        "solana": "EW9v5NiQiPSJn1g4tTvgTbdnxSrr8vA3CRRBK1MDwQJb",
         "optimism": "0xff16febaa2c4b0f895cfba10211ff5badfd36718",
         "arbitrum": "0xff16febaa2c4b0f895cfba10211ff5badfd36718",
         "tron": "THcqXeSkSmYE4A1pH4GTqzuWMGUTu1sAAu"
